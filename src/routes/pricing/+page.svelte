@@ -34,7 +34,7 @@
 					{price.product.name}
 				</h5>
 				<div class="flex items-baseline text-gray-900 dark:text-white">
-					<span class="text-3xl font-semibold">$</span>
+					<span class="text-3xl font-semibold">€</span>
 					<span class="text-5xl font-extrabold tracking-tight">{price.unit_amount}</span>
 					<span class="ml-1 text-xl font-normal text-gray-500 dark:text-gray-400"
 						>/{price.unit_amount > 0 ? interval : "forever"}</span>
